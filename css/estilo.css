@@ -1,0 +1,333 @@
+body {
+    background-image: url(/assets/img/Diseño\ sin\ título.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+}
+
+body{
+    background-color:  #040a31 ;
+}
+
+.div1 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Titulo1 {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    margin-top: -150px;
+    text-decoration: underline rgb(106, 0, 255);
+}
+
+.logo {
+    height: auto; /* Ajusta la altura del logo según sea necesario */
+    max-height: 400px; /* Establece una altura máxima si es necesario */
+}
+
+
+.div2{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.txt2 {
+    text-align: center;
+    color: rgb(246, 240, 240);
+    font-family: "Montserrat", sans-serif;
+    font-size: 5rem;
+    margin-top: 50px;
+}
+.txt3{
+    text-align: center;
+    color: rgb(246, 240, 240);
+    font-family: "Montserrat", sans-serif;
+    font-size: 5rem;
+
+}
+.foto1{
+    height: auto; /* Ajusta la altura del logo según sea necesario */
+    max-height: 600px;
+    margin-top: -250px;
+    margin-left: -66px;
+}
+.div3{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.texto2{
+    font-family: "Archivo", sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 2.5rem;
+    text-decoration: underline rgb(106, 0, 255);
+
+}
+.texto3{
+    font-family: "Archivo", sans-serif;
+    color: white;
+    width: 1200px;
+    height: 170px;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.texto4{
+    color: white;
+    text-align: center;
+    font-family: "Archivo", sans-serif;
+    font-size: 1.3rem;
+    height: 10px;
+    
+}
+.texto7{
+    color: white;
+    text-align: center;
+    font-family: "Archivo", sans-serif;
+    font-size: 1.3rem;
+    height: 10px;
+    margin-top: 15px;    
+}
+.texto8{
+    color: white;
+    text-align: center;
+    font-family: "Archivo", sans-serif;
+    font-size: 1.3rem;
+    height: 10px;
+    margin-top: 15px;
+}
+.texto9{
+    color: white;
+    text-align: center;
+    font-family: "Archivo", sans-serif;
+    font-size: 1.3rem;
+    height: 10px;
+    margin-top: 15px;
+}
+.texto10{
+    color: white;
+    text-align: center;
+    font-family: "Archivo", sans-serif;
+    font-size: 1.3rem;
+    height: 10px;
+    margin-top: 15px;
+}
+.texto11{
+    color: white;
+    text-align: center;
+    font-family: "Archivo", sans-serif;
+    font-size: 1.3rem;
+    height: 10px;
+    margin-top: 15px;
+
+}
+.subrayado{
+    text-decoration: underline rgb(106, 0, 255);
+}
+
+.texto5{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    text-decoration: underline rgb(106, 0, 255);
+    margin-top: 200px;
+}
+
+.div4{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.video1{
+    height: 500px;
+    width: 500px;
+    margin-left: -700px;
+    margin-top: 100px;
+}
+.video2{
+    height: 500px;
+    width: 500px;
+    margin-right: -700px;
+    margin-top: -500px;
+}
+.video3{
+    height: 500px;
+    width: 500px;
+    margin-left: -700px;
+    margin-top: 100px;
+}
+
+.video4{
+    height: 500px;
+    width: 500px;
+    margin-right: -700px;
+    margin-top: -500px;
+}
+.video5{
+    height: 400px;
+    width: 700px;
+    margin-top: 150px;
+}
+.texto6{
+    font-family: "Archivo", sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 2.5rem;
+    text-decoration: underline rgb(106, 0, 255);
+    margin-top: 100px;
+}
+.div5{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fotoe1{
+    height: 150px;
+    margin-left: -700px;
+    border-radius: 300px;
+    margin-top: 50px;
+}
+.fotoe2{
+    height: 150px;
+    margin-left: 700px;
+    margin-top: -240px;
+    border-radius: 300px;
+}
+.valen1{
+    color: white;
+    text-decoration: underline rgb(106, 0, 255);
+    font-family: "Archivo", sans-serif;
+    margin-left: -700px;
+    margin-top: 20px;
+    font-size: 1.5rem;
+}
+.ig1{
+    color: white;
+    text-decoration: underline rgb(106, 0, 255);
+    font-family: "Archivo", sans-serif;
+    margin-left: -700px;
+    margin-top: -10px;
+    font-size: 1.7rem;
+}
+.lucio1{
+    color: white;
+    text-decoration: underline rgb(106, 0, 255);
+    font-family: "Archivo", sans-serif;
+    margin-left: 700px;
+    margin-top: 20px;
+    font-size: 1.5rem;
+}
+.ig2{
+    color: white;
+    text-decoration: underline rgb(106, 0, 255);
+    font-family: "Archivo", sans-serif;
+    margin-left: 700px;
+    margin-top: -10px;
+    font-size: 1.7rem;
+}
+.carousel-item img {
+    max-width: 40%; /* Ajusta el porcentaje según sea necesario */
+    height: auto;   /* Mantiene la relación de aspecto de la imagen */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+  }
+.carousel{
+    margin-top: 100px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  width: 5%; /* Ajusta el ancho del botón si es necesario */
+  height: 50%; /* Ajusta la altura del botón si es necesario */
+  top: 50%; /* Centra verticalmente el botón */
+  transform: translateY(-50%); /* Ajusta la posición vertical del botón */
+  /* Si es necesario, ajusta el margen */
+  margin-left: 10px; /* Ajusta el espacio entre el botón y el borde izquierdo */
+  margin-right: 10px; /* Ajusta el espacio entre el botón y el borde derecho */
+}
+
+.carousel-control-prev {
+  left: 200px; /* Posiciona el botón a la izquierda */
+}
+
+.carousel-control-next {
+  right: 200px; /* Posiciona el botón a la derecha */
+}
+
+.precios{
+    height: 100vh;
+    margin-bottom: -150px;
+    margin-top: 50px;
+}
+.div6{
+    display: flex;
+    flex-direction: column;
+}
+.contacto{
+    color: white;
+    text-decoration: underline rgb(106, 0, 255);
+    font-family: "montserrat", sans-serif;
+    text-align: center;
+    margin-top: 80px;
+}
+.siguenos{
+    color: white;
+    text-decoration: underline rgb(106, 0, 255);
+    font-family: "montserrat", sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+.correo{
+    color: white;
+    font-family: "montserrat", sans-serif;
+    font-size: 1.3rem;
+    text-align: center;
+    margin-top: 20px;
+}
+/* Asegura que el body y html ocupen toda la altura de la ventana */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+/* El contenedor principal de la página */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* El footer debe estar al final de la página */
+footer {
+    margin-top: auto; /* Empuja el pie de página hacia el fondo del contenedor */
+    padding: 20px; /* Ajusta el padding según sea necesario */
+    background-color: #040a31; /* Color de fondo del footer */
+    color: #ffffff; /* Color del texto en el footer */
+    text-align: center; /* Centra el texto dentro del pie de página */
+}
+
+/* Estilo para el contenedor de redes sociales */
+.redes {
+    display: flex; /* Alinea los elementos en una fila */
+    justify-content: center; /* Centra los elementos horizontalmente */
+    gap: 10px; /* Espacio entre las imágenes */
+    margin-top: 20px; /* Espacio entre el texto y las imágenes */
+}
+
+/* Estilo para las imágenes de redes sociales */
+.face, .insta {
+    width: 50px; 
+    height: 50px;
+}
